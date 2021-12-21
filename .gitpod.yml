@@ -1,0 +1,10 @@
+
+vscode:
+  extensions:
+    - dendron.dendron
+
+ports:
+  - port: 33297
+    visibility: public
+
+workspaceLocation: dendron-test-wiki/dendron.code-workspace
